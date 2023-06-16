@@ -17,7 +17,7 @@ void EASY(int n)
 	do{
 		printf("+++++++++++++++++++++++++++++++++++++++++++++++MENU+++++++++++++++++++++++++++++++++++++++++++++++++++++++\n");
 		printf("++                                             EASY                                                     ++\n");
-	    printf("++                                                                                                      ++\n");
+	        printf("++                                                                                                      ++\n");
 		printf("++    1. Swap the value of 3 numbers a,b,c with each other                                              ++\n");
 		printf("++    2. Write a function to calculate a to the power b                                                 ++\n");
 		printf("++    3. Check the parity uniformity of two numbers                                                     ++\n");
